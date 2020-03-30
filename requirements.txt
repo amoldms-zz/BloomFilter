@@ -1,7 +1,4 @@
 bitarray==1.2.1
-certifi==2019.11.28
-fnv==0.2.0
-fnvhash==0.1.0
 mmh3==2.5.1
 numpy==1.18.2
 pandas==1.0.3
