@@ -4,18 +4,18 @@ Bloom Filter is probabilistic data structure designed to check, quickly and memo
 
 # Project structure
 
- README.md
- License.md
- requirements.txt
- apps/spell_checker.py
- apps/other_apps.py
- bloom_filter/bloomfilter.py
- bloom_filter/bloomfilter_interface.py
- middletier/spell_service.py
- middletier/logger.py
- middletier/dal/filesystem_dal.py
- data/dictionary.csv
- data/test_document.csv
+- README.md
+- License.md
+- requirements.txt
+- apps/spell_checker.py
+- apps/other_apps.py
+- bloom_filter/bloomfilter.py
+- bloom_filter/bloomfilter_interface.py
+- middletier/spell_service.py
+- middletier/logger.py
+- middletier/dal/filesystem_dal.py
+- data/dictionary.csv
+ - data/test_document.csv
 
 # Prerequisites
 
