@@ -2,9 +2,20 @@
 
 Bloom Filter is probabilistic data structure designed to check, quickly and memory-efficiently, whether an element is present in a set. This is very useful in applications like spell checker, domain availability checker, azure resource name availability checker, database systems, web crawler service etc.
 
-# Getting Started
+# Project structure
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing   purposes.
+ README.md
+ License.md
+ requirements.txt
+ apps/spell_checker.py
+ apps/other_apps.py
+ bloom_filter/bloomfilter.py
+ bloom_filter/bloomfilter_interface.py
+ middletier/spell_service.py
+ middletier/logger.py
+ middletier/dal/filesystem_dal.py
+ data/dictionary.csv
+ data/test_document.csv
 
 # Prerequisites
 
