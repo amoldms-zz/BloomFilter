@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c2867d7-47cc-431b-9e8a-0e3bc39e558a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BloomFilter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/other_apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/spell_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/dictionary.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/sample_paragraph.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/test_document.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middletier/dal/database_dal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middletier/dal/filesystem_dal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middletier/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middletier/spell_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spell_checker_config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloom_filter/bloomfilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/bloom_filter/bloomfilter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

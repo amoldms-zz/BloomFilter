@@ -193,8 +193,10 @@ class BloomFilter(BloomFilterInterface):
         try:
             size = ceil((items * log(prob)) / log(1 / pow(2, log(2))))
             return size
-        except Exception as e:
-            # ToDo: Implement granular exception handling
+        except ZeroDivisionError as e:
+            logger.log(str(e))
+            sys.exit(1)
+        except ArithmeticError as e:
             logger.log(str(e))
             sys.exit(1)
 
@@ -218,8 +220,10 @@ class BloomFilter(BloomFilterInterface):
         try:
             count = round((size / items) * log(2))
             return count
-        except Exception as e:
-            # ToDo: Implement granular exception handling
+        except ZeroDivisionError as e:
+            logger.log(str(e))
+            sys.exit(1)
+        except ArithmeticError as e:
             logger.log(str(e))
             sys.exit(1)
 
