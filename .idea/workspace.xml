@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c2867d7-47cc-431b-9e8a-0e3bc39e558a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/BloomFilter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/other_apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/spell_checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dictionary.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sample_paragraph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_document.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/license.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middletier/dal/database_dal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middletier/dal/filesystem_dal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middletier/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middletier/spell_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spell_checker_config.ini" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Ze6DRo1jZ9Z36j0i0tY0Dv1AuR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/middletier" />
+      <recent name="$PROJECT_DIR$/apps" />
+      <recent name="$PROJECT_DIR$/utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_websitename_availability">
+    <configuration name="test_spellchecker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BloomFilter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_spellchecker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_websitename_availability" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BloomFilter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_websitename_availability.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_websitename_availability" />
+        <item itemvalue="Python.test_spellchecker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c2867d7-47cc-431b-9e8a-0e3bc39e558a" name="Default Changelist" comment="" />
+      <created>1585187092866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585187092866</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="331" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585426135683">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state x="582" y="331" key="#com.intellij.fileTypes.FileTypeChooser/38.23.1642.1027@38.23.1642.1027" timestamp="1585426135683" />
+    <state x="534" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585506127743">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state x="534" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/38.23.1642.1027@38.23.1642.1027" timestamp="1585506127743" />
+    <state width="1613" height="106" key="GridCell.Tab.0.bottom" timestamp="1585526133821">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1613" height="106" key="GridCell.Tab.0.bottom/38.23.1642.1027@38.23.1642.1027" timestamp="1585526133821" />
+    <state width="1613" height="106" key="GridCell.Tab.0.center" timestamp="1585526133820">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1613" height="106" key="GridCell.Tab.0.center/38.23.1642.1027@38.23.1642.1027" timestamp="1585526133820" />
+    <state width="1613" height="106" key="GridCell.Tab.0.left" timestamp="1585526133820">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1613" height="106" key="GridCell.Tab.0.left/38.23.1642.1027@38.23.1642.1027" timestamp="1585526133820" />
+    <state width="1613" height="106" key="GridCell.Tab.0.right" timestamp="1585526133821">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1613" height="106" key="GridCell.Tab.0.right/38.23.1642.1027@38.23.1642.1027" timestamp="1585526133821" />
+    <state x="259" y="88" key="SettingsEditor" timestamp="1585187679778">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state x="259" y="88" key="SettingsEditor/38.23.1642.1027@38.23.1642.1027" timestamp="1585187679778" />
+    <state x="495" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1585528452974">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state x="495" y="329" key="com.intellij.ide.util.TipDialog/38.23.1642.1027@38.23.1642.1027" timestamp="1585528452974" />
+    <state x="438" y="23" width="840" height="1034" key="search.everywhere.popup" timestamp="1585506577115">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state x="438" y="23" width="840" height="1034" key="search.everywhere.popup/38.23.1642.1027@38.23.1642.1027" timestamp="1585506577115" />
+  </component>
+</project>
