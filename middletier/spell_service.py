@@ -50,13 +50,13 @@ def get_words(filepath):
 
     Returns
     -------
-    list
-        List of dictionary words
+    set
+        Set of unique dictionary words
     """
     # Add all items from dictionary to bloom filter
     try:
         document = filedal.get_data(filepath)
-        words = tokenize_words(document)
+        words = set(tokenize_words(document))
         return words
     except RuntimeError as e:
         logger.log(str(e))
